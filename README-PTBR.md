@@ -1,3 +1,6 @@
+# Desafios
+<img src='https://picstatio.com/large/a1c9cf/wizard-dragon-fight-art.jpg' />
+
 ## 👋 Boas vindas, pessoa aventureira!
 Aqui você vai encontrar alguns desafios para testar suas habilidades, sinta-se a vontade pra clonar o repositório e tentar resolver quantos você conseguir. Cada desafio tem seu próprio arquivo `README.md` explicando o que é preciso fazer.
 
